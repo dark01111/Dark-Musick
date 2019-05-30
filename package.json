@@ -1,0 +1,33 @@
+{
+  "name": "discord.js-musicbot-addon",
+  "version": "13.5.2",
+  "description": "A simple Node.js based music extension/bot for Discord.js projects using YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "ytdl-core": "^0.29.1",
+    "ytpl": "^0.1.14",
+    "ytsearcher": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DarkoPendragon/discord.js-musicbot-addon"
+  },
+  "bugs": {
+    "url": "https://github.com/DarkoPendragon/discord.js-musicbot-addon/issues"
+  },
+  "homepage": "https://github.com/DarkoPendragon/discord.js-musicbot-addon",
+  "keywords": [
+    "discord",
+    "discord.js",
+    "music",
+    "bot",
+    "addon",
+    "plugin"
+  ],
+  "author": "demisex",
+  "license": "ISC"
+}
